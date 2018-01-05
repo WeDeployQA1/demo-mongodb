@@ -1,5 +1,6 @@
 {
 	"id": "md",
 	"image": "mongo",
+	"memory": 2048,
 	"volume": "/data/db"
 }
